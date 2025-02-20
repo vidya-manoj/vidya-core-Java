@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Person {
 
 
-    //properties, aatributes, data
+    //properties, attributes, data
 
     private int age;
     private String name;
